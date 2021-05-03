@@ -1,8 +1,9 @@
 # DSA_21_group5
 Implementation and Analysis of string matching algorithms
+
 Group members: Nitya Sathyavagesswaran ( Netid: ns1160),Sudarshan Srinivasan( Netid:ss3020 )
 
-About the project: 
+About the project: Four string matching algorithms implemented. Need a text file as the input data. We can search for desired patterns in the text file. The code outputs if a match is found and also the position of the match.
 
 
 Instructions to implement on google colab:
